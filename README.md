@@ -1,5 +1,5 @@
 # LegRoast
-Post-Quanum signatures based on the Legendre PRF
+Post-Quantum signatures based on the Legendre PRF
 
 Parameters can be found and changed in parameters.h
 
